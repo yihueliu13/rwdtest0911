@@ -1,0 +1,22 @@
+{
+  "name": "gulp_test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "kayliu <yihueliu13@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "fe_manage/"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "#4.0.0-alpha.6"
+  }
+}

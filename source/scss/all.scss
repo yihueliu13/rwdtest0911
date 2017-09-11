@@ -1,0 +1,14 @@
+$primary-color: #bbbbbb;
+$size-m: 16px;
+
+
+h1{
+  color: $primary-color;
+  font-size: $size-m;
+  font-weight: bold;
+}
+
+.card{
+  transform: rotate(120deg);
+  color: $primary-color;
+}

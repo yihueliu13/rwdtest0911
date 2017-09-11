@@ -1,0 +1,13 @@
+$primary-color: #111111;
+$size-m: 18px;
+
+
+h3{
+  color: $primary-color;
+  font-size: $size-m;
+  font-weight: bold;
+}
+
+.top{
+  transform: rotate(50deg);
+}
